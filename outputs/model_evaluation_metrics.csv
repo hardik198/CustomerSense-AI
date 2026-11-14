@@ -1,0 +1,9 @@
+Metric,Value
+Total Reviews,49897.0
+Number of Clusters,6.0
+Silhouette Score (Sampled),0.0117
+Model Inertia,47760.301
+Largest Cluster Size,19807.0
+Smallest Cluster Size,2715.0
+Largest Cluster Percentage,39.7
+Smallest Cluster Percentage,5.44

@@ -1,0 +1,10 @@
+Column,Missing_Count,Missing_Percentage
+rating,0,0.0
+title,5,0.01
+text,0,0.0
+asin,0,0.0
+parent_asin,0,0.0
+user_id,0,0.0
+timestamp,0,0.0
+helpful_vote,0,0.0
+verified_purchase,0,0.0
